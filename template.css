@@ -13,8 +13,19 @@
 
 /* Put body attributes here */
 
+
+h1 {
+text-align: center
+text-decoration: underline overlive;
+}
+
 body { 
-background-color: red;
+font-family: Impact, Arial, Helvetica;
+font-size: 87.5%;
+background-color: yellow;
 color: black;
 
 }
+
+
+img  { float: right; } 
