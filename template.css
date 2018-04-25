@@ -17,13 +17,15 @@
 h1 {
 text-align: center
 text-decoration: underline overlive;
+background-color: blue;
+color: red;
 }
 
 body { 
 font-family: Impact, Arial, Helvetica;
 font-size: 87.5%;
-background-color: yellow;
-color: black;
+background-color: white;
+color: blue;
 
 }
 
