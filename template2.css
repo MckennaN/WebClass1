@@ -1,0 +1,62 @@
+/*
+* Programmer Name
+* Date
+* Description of Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/*header is here*/
+
+header {
+text-align: center;
+background-color: rgb(205, 92, 92);
+}
+/*h1 is here*/
+
+h1 {
+text-align: left;
+font-family: Lucida Handwriting; 
+text-decoration: underline;
+color: black;
+}
+
+/* Put body attributes here */
+
+body {
+text-align: left;
+font-family: sans-serif;
+background-color: rgb(255, 228, 225);
+}
+
+
+a:hover, a:focus {
+	color: deeppink;
+	text-decoration: underline;}
+a:active {
+	color: darkcyan;}
+	
+/*h3 is here*/
+
+h3 {
+font-family: Lucida Handwriting;
+text-decoration: underline;
+text-align:left;
+}
+
+/*footer is here*/
+
+footer 
+a:hover, a:focus {
+	color: deeppink;
+	text-decoration: underline;}
+a:active {
+	color: darkcyan;}
+
+
+
