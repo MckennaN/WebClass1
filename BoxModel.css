@@ -1,0 +1,35 @@
+/*
+*Mckenna Newnam
+*May 7th, 2018
+*In class project
+*/
+
+* {
+margin: 0;
+padding: 0;
+}
+
+/* body attributes */
+h1 {
+border: thin dashed black;
+padding: 5px;
+margin: 5px;
+}
+
+p {
+border: thin dashed black;
+padding: 5px;
+margin: 5px;
+}
+
+body {
+padding: 5px;
+border: thin dashed black;
+margin: 5px;
+}
+
+main {
+padding: 5px;
+border: thick solid black;
+margin: 5px;
+}
