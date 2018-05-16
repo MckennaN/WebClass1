@@ -1,0 +1,44 @@
+/*
+*Mckenna Newnam*
+*/
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+/* body attributes */
+
+h1 {
+	background-color: rgb(75, 24, 13);
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+	img {float: left; height: 150px; width: 200px;}
+p {
+
+}
+
+body {
+	background-color: rgb(255, 160, 122);
+	text-align: left;
+}
+
+main {
+}
+
+/* beautiful images below*/
+
+.Wolf {
+	clear:center;
+	height: 200px; 
+	width: 250px;
+	margin: 10px;
+	padding: 5px;
+}
+
+footer{
+	border: thin solid #4B180D;
+	clear: left;
+}
