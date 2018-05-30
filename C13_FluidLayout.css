@@ -1,0 +1,56 @@
+/* Name:
+*  Date: 
+*  Lab: C13 Fluid Layout Exercise */
+
+* {
+    margin: 0;
+    padding: 1.5%;
+}
+/*BELOW IS THE BODY*/
+body {
+    width: ;
+    background-color: rgb( 65, 105, 225);
+    margin: 15px auto;
+    border: 1px solid black;
+}
+/*below is the information*/
+h1 {
+	background-color: rgb(255, 99, 71);
+    padding: 10px;
+}
+
+header {
+	background-color: rgb(255, 99, 71);
+    border-bottom: 2px solid #ef9c00;
+}
+
+#sidebarA {
+	background-color:white;
+    width: 25%;
+    height:450px;
+    float: left;
+    border-right: 2px solid #ef9c00;
+}
+
+main {
+	background-color:white;
+    width: 45.7%;
+    height:450px;
+    font-size: 150%;
+    float: left;
+}
+/*below is the sidebar B*/
+#sidebarB {
+	background-color: white;
+    width: 20%;
+    height: 450px;
+    float: right;
+    border-left: 2px solid #ef9c00;
+}
+footer {
+	background-color: rgb(255, 99, 71);
+    clear: both;
+    border-top: 2px solid #ef9c00;
+}
+/*below applies to all images*/
+img {height: 200px; width: 250px; padding: 2.5% border-color: black; border-style: solid;}
